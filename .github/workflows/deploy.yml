@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: Checkoec2-user
       uses: actions/checkout@v2
 
     - name: Deploy to EC2
